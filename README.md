@@ -1,12 +1,40 @@
-# React + Vite
+# 🌐 Mohammad Aman Memon | Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website, built using **React.js**, **Tailwind CSS**, and modern animation libraries. This project showcases my technical skills, projects, education, and work experience in a visually appealing and interactive way.
 
-Currently, two official plugins are available:
+<br />
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Website
 
-## Expanding the ESLint configuration
+👉 [Visit Portfolio](https://mohammad-aman-memon-portfolio.vercel.app/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<br />
+
+## 📸 Preview
+<img width="1820" height="843" alt="about_protfolio" src="https://github.com/user-attachments/assets/d0827f56-f2c8-4516-be1c-619ab6a32717" />
+
+
+<br />
+
+## 🚀 Features
+
+- ⚛️ Built with **React.js**
+- 🎨 Styled using **Tailwind CSS**
+- 🔄 Smooth animations and effects
+- 🧠 Projects, Skills, Timeline, Education, and Contact sections
+- 📱 Fully responsive on all screen sizes
+- 💌 EmailJS integration for contact form
+
+<br />
+
+## 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, JavaScript
+- **Animations:** React Simple Typewriter, React Tilt
+- **Form Handling:** EmailJS
+- **Deployment:** Vercel
+
+<br />
+
+## 📂 Folder Structure
+

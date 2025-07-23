@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website, built using **React.js**, **Tailwind CSS**, and modern animation libraries. This project showcases my technical skills, projects, education, and work experience in a visually appealing and interactive way.
 
-<br />
+
 
 ## 🔗 Live Website
 
@@ -14,7 +14,7 @@ Welcome to my personal portfolio website, built using **React.js**, **Tailwind C
 <img width="1820" height="843" alt="about_protfolio" src="https://github.com/user-attachments/assets/d0827f56-f2c8-4516-be1c-619ab6a32717" />
 
 
-<br />
+
 
 ## 🚀 Features
 
@@ -25,7 +25,7 @@ Welcome to my personal portfolio website, built using **React.js**, **Tailwind C
 - 📱 Fully responsive on all screen sizes
 - 💌 EmailJS integration for contact form
 
-<br />
+
 
 ## 🛠️ Tech Stack
 

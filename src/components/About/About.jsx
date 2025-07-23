@@ -81,7 +81,8 @@
 // export default About;
 import React from "react";
 import { Typewriter } from "react-simple-typewriter";
-import { Tilt } from "react-tilt";
+import Tilt from 'react-parallax-tilt';
+
 import profile from "../../assets/pro.png";
 
 const About = () => {

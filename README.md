@@ -47,11 +47,11 @@ npm install
 npm run dev
 💡 Make sure you have Node.js and npm installed.
 
-<br />
+
 📤 Deployment
 The portfolio is deployed on Vercel. You can deploy your own by connecting the GitHub repo to Vercel and importing the project.
 
-<br />
+
 📫 Contact
 📧 Email: amanmemon0014@gmail.com
 

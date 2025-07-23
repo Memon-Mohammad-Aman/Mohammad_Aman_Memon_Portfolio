@@ -37,4 +37,60 @@ Welcome to my personal portfolio website, built using **React.js**, **Tailwind C
 <br />
 
 ## 📂 Folder Structure
+myportfolio/
+├── public/
+│ └── assets/ # Images and logos
+├── src/
+│ ├── components/ # All reusable React components
+│ │ ├── About/
+│ │ ├── Contact/
+│ │ ├── Education/
+│ │ ├── Hero/
+│ │ ├── Navbar/
+│ │ └── Skills/
+│ ├── constants.js # Skills, education, project data
+│ ├── App.jsx
+│ └── index.js
+├── package.json
+└── tailwind.config.js
+
+<br />
+
+## 🔧 Installation & Setup
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/myportfolio.git
+cd myportfolio
+npm install
+npm run dev
+💡 Make sure you have Node.js and npm installed.
+
+<br />
+📤 Deployment
+The portfolio is deployed on Vercel. You can deploy your own by connecting the GitHub repo to Vercel and importing the project.
+
+<br />
+📫 Contact
+📧 Email: amanmemon0014@gmail.com
+
+💼 LinkedIn:https://www.linkedin.com/in/mohammad-aman-memon/
+
+🖼️ Live Portfolio:https://mohammad-aman-memon-portfolio.vercel.app/
+
+🏁 Show some ❤️ by starring the repo!
+yaml
+Copy
+Edit
+
+---
+
+> ✅ **Next Step:** Save this as `README.md` in the root of your repo and push it to GitHub:
+
+```bash
+git add README.md
+git commit -m "Add portfolio README"
+git push origin main
+
 
